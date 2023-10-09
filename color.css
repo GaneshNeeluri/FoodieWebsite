@@ -1,0 +1,23 @@
+button {
+    background: #604dee;
+    font-weight: thik;
+    color: rgb(250, 251, 253);
+}
+
+li {
+    color: #e4e2e7;
+
+}
+
+form {
+    color: #ee840c;
+    background: #2d372d;
+}
+
+span {
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    padding-left: 40%;
+
+}
